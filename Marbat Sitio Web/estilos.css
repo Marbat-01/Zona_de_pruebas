@@ -1,0 +1,23 @@
+header{
+background-color: White;
+font-family: Arial;
+}
+body{
+	background-color: #4A0C00;
+}
+footer{
+	background-color: black;
+	color: white;
+}
+h1{
+	text-align: center;
+	font-style: italic;
+}
+h3{
+	color: white;
+}
+p{
+	color: white;
+	font-family: Arial;
+	text-align: center;
+}
